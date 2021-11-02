@@ -1,9 +1,6 @@
 import javax.swing.JOptionPane;
 
-/*
-  Nome: Lucas Silva de Oliveira
-  Data:27/10/2021
-*/
+
 public class Avaliacao 
 {
   public static void main(String[] args) 
